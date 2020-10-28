@@ -55,3 +55,11 @@ dictionary_6.py
 dictionary_7.py
 ```
 > If the word has more than 1 definition, retrive all by iterating.
+
+Note: All files are integrated with comments to help you understand each and every line/command of the code.
+
+### Run All Together
+Even though the dictionary_7.py is the complete file, I made a new copy of that file namely interactive_dictionary.py to serve as a final file.
+```
+python3 interactive_dictionary.py
+```
