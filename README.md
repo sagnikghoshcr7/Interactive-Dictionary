@@ -34,3 +34,9 @@ dictionary_2.py
 dictionary_3.py
 ```
 > Removing the case-sensitivity from the program. For example 'Rain' and 'rain' will give same output.
+
+```
+dictionary_4-1.py
+dictionary_4-2.py
+```
+> Learn how 'difflib' works in order to suggest a similar word.
