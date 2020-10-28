@@ -50,3 +50,8 @@ dictionary_5.py
 dictionary_6.py
 ```
 > If the suggested word is what user wants, retrive the meaning of suggested word.
+
+```
+dictionary_7.py
+```
+> If the word has more than 1 definition, retrive all by iterating.
