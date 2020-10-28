@@ -29,3 +29,8 @@ dictionary_1.py
 dictionary_2.py
 ```
 > Check for non-existing words.
+
+```
+dictionary_3.py
+```
+> Removing the case-sensitivity from the program. For example 'Rain' and 'rain' will give same output.
