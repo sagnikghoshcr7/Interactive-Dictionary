@@ -45,3 +45,8 @@ dictionary_4-2.py
 dictionary_5.py
 ```
 > Use 'difflib' in our code to retrieve closest match
+
+```
+dictionary_6.py
+```
+> If the suggested word is what user wants, retrive the meaning of suggested word.
