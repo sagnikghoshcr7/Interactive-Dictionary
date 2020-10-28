@@ -24,3 +24,8 @@ I have created different files for each step in creating the interactive diction
 dictionary_1.py
 ```
 > Load the data, and just check if data loaded correctly.
+
+```
+dictionary_2.py
+```
+> Check for non-existing words.
