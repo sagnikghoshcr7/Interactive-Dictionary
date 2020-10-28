@@ -40,3 +40,8 @@ dictionary_4-1.py
 dictionary_4-2.py
 ```
 > Learn how 'difflib' works in order to suggest a similar word.
+
+```
+dictionary_5.py
+```
+> Use 'difflib' in our code to retrieve closest match
