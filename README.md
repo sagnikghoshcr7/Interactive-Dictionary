@@ -61,5 +61,5 @@ Note: All files are integrated with comments to help you understand each and eve
 ### Run All Together
 Even though the dictionary_7.py is the complete file, I made a new copy of that file namely interactive_dictionary.py to serve as a final file.
 ```
-python3 interactive_dictionary.py
+python interactive_dictionary.py
 ```
